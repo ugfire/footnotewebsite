@@ -1,2 +1,2 @@
-url: ugfire.github.io
-   baseurl: /footnotewebsite
+baseurl: "" # this should be an empty string for a custom domain
+url: "https://footnoteconsults.com" # the URL of your custom domain
