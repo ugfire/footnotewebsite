@@ -8163,3 +8163,8 @@ div.elementor-widget-heading h6.elementor-heading-title {
 .p-5 {
   padding: 20px;
 }
+.btn-details {
+  padding: 2px 10px;
+  background-color: #4db8ff;
+  border-radius: 10px;
+}
