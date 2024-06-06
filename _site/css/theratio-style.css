@@ -8154,3 +8154,12 @@ div.elementor-widget-heading h6.elementor-heading-title {
 .homebg {
   background-color: #000000 !important;
 }
+.p-3 {
+  padding: 10px;
+}
+.p-1 {
+  padding: 5px;
+}
+.p-5 {
+  padding: 20px;
+}
