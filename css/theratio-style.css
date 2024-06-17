@@ -8168,3 +8168,7 @@ div.elementor-widget-heading h6.elementor-heading-title {
   background-color: #b3e0ff;
   border-radius: 10px;
 }
+
+.d-none {
+  display: none !important;
+}
